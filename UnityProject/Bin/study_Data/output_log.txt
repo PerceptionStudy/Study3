@@ -1,0 +1,832 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7900 Series (ID=0x6798)
+    Vendor:   ATI
+    VRAM:     3050 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\LogLib.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\LogLib.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+desktop: 7680x1440 60Hz; virtual: 7680x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\System.Core.dll (this message is harmless)
+Create Singleton object: -10020
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PerceptionStudy\Study1\UnityProject\Bin\study_Data\Managed\System.Data.dll (this message is harmless)
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 0 duration: 2000 distance: 2677.516
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 2000; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 25 duration: 500 distance: -261.9564
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 500; amplitude: 25: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 50 duration: 1500 distance: 2208.704
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 1500; amplitude: 50: distance: 3185 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 0 duration: 500 distance: 3274.941
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 500; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 100 duration: 2000 distance: -163.5302
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 2000; amplitude: 100: distance: 3 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 25 duration: 1000 distance: -496.1434
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 1000; amplitude: 25: distance: 4 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 100 duration: 250 distance: 779.6838
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 250; amplitude: 100: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 50 duration: 2000 distance: -87.05784
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 2000; amplitude: 50: distance: 5 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 50 duration: 2000 distance: -1756.123
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 2000; amplitude: 50: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 100 duration: 500 distance: -38.94981
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 500; amplitude: 100: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 25 duration: 250 distance: 20.04161
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 250; amplitude: 25: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 100 duration: 2000 distance: -3033.484
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 2000; amplitude: 100: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 0 duration: 2000 distance: 726.5771
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 2000; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 0 duration: 1500 distance: -2872.48
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 1500; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 50 duration: 2000 distance: -544.1621
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 2000; amplitude: 50: distance: 6 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 25 duration: 1000 distance: 3661.367
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 1000; amplitude: 25: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 100 duration: 1000 distance: 2971.93
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 1000; amplitude: 100: distance: 8 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 75 duration: 500 distance: 801.8603
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 500; amplitude: 75: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 75 duration: 2000 distance: 522.7132
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 2000; amplitude: 75: distance: 2 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 0 duration: 1000 distance: 769.3085
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 1000; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 100 duration: 1500 distance: 571.565
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 1500; amplitude: 100: distance: 13 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 75 duration: 1500 distance: -791.7069
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 1500; amplitude: 75: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 75 duration: 1000 distance: 3798.377
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 1000; amplitude: 75: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 25 duration: 1500 distance: 151.4277
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 1500; amplitude: 25: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 50 duration: 250 distance: 1286.818
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 250; amplitude: 50: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 50 duration: 1500 distance: -417.4551
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 1500; amplitude: 50: distance: 9 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 50 duration: 250 distance: -1462.37
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 250; amplitude: 50: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 100 duration: 1500 distance: -2431.071
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 1500; amplitude: 100: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 0 duration: 250 distance: -2482.072
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 250; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 100 duration: 250 distance: -119.8814
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 250; amplitude: 100: distance: 131 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 50 duration: 1000 distance: 724.8658
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 1000; amplitude: 50: distance: 286 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 0 duration: 500 distance: -55.05918
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 500; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 75 duration: 500 distance: -1449.392
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 500; amplitude: 75: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 0 duration: 1500 distance: 663.629
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 1500; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 50 duration: 250 distance: 243.3424
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 250; amplitude: 50: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 25 duration: 250 distance: 2924.554
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 250; amplitude: 25: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 100 duration: 1000 distance: -710.384
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 1000; amplitude: 100: distance: 19 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 75 duration: 250 distance: -3046.498
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 250; amplitude: 75: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 25 duration: 250 distance: 33.7906
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 250; amplitude: 25: distance: 6 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 100 duration: 500 distance: -632.2515
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 500; amplitude: 100: distance: 5 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 75 duration: 2000 distance: 2725.158
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 2000; amplitude: 75: distance: 6 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 0 duration: 1500 distance: -519.2739
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 1500; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 25 duration: 2000 distance: -3602.795
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 2000; amplitude: 25: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 50 duration: 1500 distance: -2865.43
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 1500; amplitude: 50: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 25 duration: 2000 distance: 130.9265
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 2000; amplitude: 25: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 100 duration: 1500 distance: 3434.484
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 1500; amplitude: 100: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 100 duration: 1500 distance: 430.9247
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 1500; amplitude: 100: distance: 3 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 50 duration: 2000 distance: -3273.137
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 2000; amplitude: 50: distance: 8 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 50 duration: 500 distance: -3490.026
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 500; amplitude: 50: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 0 duration: 1000 distance: 279.2089
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 1000; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 75 duration: 250 distance: 675.805
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 250; amplitude: 75: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 100 duration: 500 distance: -3301.202
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 500; amplitude: 100: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 0 duration: 1500 distance: 3038.667
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 1500; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 50 duration: 500 distance: 344.6386
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 500; amplitude: 50: distance: 38 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 25 duration: 1500 distance: 484.4547
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 1500; amplitude: 25: distance: 6 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 100 duration: 250 distance: 1589.613
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 250; amplitude: 100: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 0 duration: 2000 distance: -3437.227
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 2000; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 75 duration: 2000 distance: 776.4489
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 2000; amplitude: 75: distance: 13 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 75 duration: 1000 distance: 459.9694
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 1000; amplitude: 75: distance: 8 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 50 duration: 1500 distance: 327.7777
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 1500; amplitude: 50: distance: 7 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 25 duration: 500 distance: 1541.574
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 500; amplitude: 25: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 0 duration: 500 distance: -235.8642
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 500; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 75 duration: 2000 distance: 3549.99
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 2000; amplitude: 75: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 0 duration: 1000 distance: -3518.744
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 1000; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 50 duration: 250 distance: 279.1472
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 250; amplitude: 50: distance: 53 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 75 duration: 1500 distance: -3497.178
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 1500; amplitude: 75: distance: 110 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 0 duration: 250 distance: -621.0093
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 250; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 75 duration: 1000 distance: -681.8691
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 1000; amplitude: 75: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 100 duration: 1000 distance: 2660.649
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 1000; amplitude: 100: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 25 duration: 2000 distance: -2136.936
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 2000; amplitude: 25: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 25 duration: 500 distance: -2060.919
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 500; amplitude: 25: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 0 duration: 2000 distance: -168.6111
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 2000; amplitude: 0: distance: 726 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 25 duration: 1500 distance: 1498.701
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 1500; amplitude: 25: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 50 duration: 500 distance: 66.4151
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 500; amplitude: 50: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 0 duration: 250 distance: -206.0389
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 250; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 25 duration: 1000 distance: 3797.006
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 1000; amplitude: 25: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 25 duration: 1500 distance: -1471.113
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 1500; amplitude: 25: distance: 34 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 75 duration: 500 distance: -40.12634
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 500; amplitude: 75: distance: 8 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 100 duration: 2000 distance: -2958.322
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 2000; amplitude: 100: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 25 duration: 500 distance: -520.0346
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 500; amplitude: 25: distance: 306 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 0 duration: 500 distance: 1945.85
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 500; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 25 duration: 250 distance: 3592.018
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 250; amplitude: 25: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 75 duration: 250 distance: 860.0631
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 250; amplitude: 75: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 50 duration: 500 distance: -1460.709
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 500; amplitude: 50: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 50 duration: 1000 distance: 2000.164
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 1000; amplitude: 50: distance: 1799 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 75 duration: 1000 distance: 1610.433
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 1000; amplitude: 75: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 100 duration: 500 distance: 1756.321
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 500; amplitude: 100: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 100 duration: 1000 distance: -826.0045
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 1000; amplitude: 100: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 75 duration: 500 distance: -2682.799
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 500; amplitude: 75: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 0 duration: 250 distance: 3356.612
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 250; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 25 duration: 1000 distance: -818.1383
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 1000; amplitude: 25: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 25 duration: 2000 distance: -81.65522
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 2000; amplitude: 25: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 0 duration: 1000 distance: -3658.937
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 1000; amplitude: 0: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 75 duration: 1500 distance: -99.14908
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 1500; amplitude: 75: distance: 11 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 100 duration: 250 distance: 2124.631
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 1; duration: 250; amplitude: 100: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 75 duration: 1500 distance: 1563.665
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 1500; amplitude: 75: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 75 duration: 250 distance: -2284.729
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 250; amplitude: 75: distance: 2048 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 1 halfWaveLength: 50 amplitude: 50 duration: 1000 distance: -2456.106
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 1; duration: 1000; amplitude: 50: distance: -1 -- target: False
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 100 duration: 2000 distance: 517.2934
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 1; visionArea: 0; duration: 2000; amplitude: 100: distance: 6 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Start stimulus, visionArea: 0 halfWaveLength: 50 amplitude: 50 duration: 1000 distance: -254.4262
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Stimulus: repetition: 0; visionArea: 0; duration: 1000; amplitude: 50: distance: 32 -- target: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
