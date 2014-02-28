@@ -109,7 +109,7 @@ public class MainScript : MonoBehaviour
 	{
 		stimuli.Clear();
 
-		int[] amplitudeValues = {0, (int)Settings.Values.amplitude_1, (int)Settings.Values.amplitude_2, (int)Settings.Values.amplitude_3, (int)Settings.Values.amplitude_3};
+		int[] amplitudeValues = {0, (int)Settings.Values.amplitude_1, (int)Settings.Values.amplitude_2, (int)Settings.Values.amplitude_3, (int)Settings.Values.amplitude_4};
 		int[] waveLengthValues = {(int)Settings.Values.waveLength_1, (int)Settings.Values.waveLength_2, (int)Settings.Values.waveLength_3, (int)Settings.Values.waveLength_4, (int)Settings.Values.waveLength_5};
 
 		int count = 0;
